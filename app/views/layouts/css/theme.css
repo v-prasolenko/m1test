@@ -1,0 +1,18 @@
+h3 {
+	color: #f35626;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+	background: transparent;
+	padding: 10px 0 10px 0;
+}
+.post-content{
+	line-height: 32px;
+}
+.post-image{
+	width: 300px;
+	margin: 0 20px 20px 0;
+	border: solid 1px #000;
+	padding: 1px;
+	float: left;
+	border-radius: 5px;
+}
+#editor {overflow:scroll; max-height:300px}
